@@ -1,0 +1,1 @@
+This Python program creates a dictionary (key/value) of words read from a file, eliminates duplicate terms, and displays the set of all unique words in the file.

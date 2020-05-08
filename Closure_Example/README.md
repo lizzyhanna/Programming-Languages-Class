@@ -1,0 +1,1 @@
+This Python program demonstrates the concept of a closure and variable scope.

@@ -1,0 +1,1 @@
+This Python program simulates a parking garage.

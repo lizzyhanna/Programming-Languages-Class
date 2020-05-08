@@ -1,0 +1,1 @@
+This Python program creates a dictionary (unique key/value pairs) out of a list of names, sorts the names by either ascending or descending frequency of items, then outputs a number of sorted terms from the dictionary based on user input. 
